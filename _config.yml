@@ -1,15 +1,14 @@
 # Site settings
 title: Yu Wang's Blog
 email: farheart@gmail.com
-description: Yu Wang # this means to ignore newlines until "baseurl:"
+description: The github-based blog of Yu Wang     # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://farheart.github.io/ # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: Yu Wang
 
-# Sidebar filter
-# Choose 'tag' or 'category' as filter in sidebar.
-filter: 'category'
+# Sidebar filter - Choose 'tag' or 'category' as filter in sidebar.
+filter: 'tag'
 recent_num: 20
 
 # Social account
