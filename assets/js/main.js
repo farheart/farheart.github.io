@@ -51,6 +51,7 @@ $(function() {
     {% if site.disqus.shortname %}
       var ds_loaded = false;
       window.disqus_shortname = "{{ site.disqus.shortname }}";
+	  console.log(">> Now is trying to load disqus comments");
       main.scroll(function(){
         var nScrollHight = $(this)[0].scrollHeight;
         var nScrollTop = $(this)[0].scrollTop;
