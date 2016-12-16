@@ -1,5 +1,5 @@
 ---
-title: Yu Wang's Space
+title: Yu Wang's Index Page
 layout: post
 published: true
 ---
@@ -9,4 +9,4 @@ published: true
 
 ## 关于
 
-这个博客 fork 自通过 suyan.github.io
+forked from [https://github.com/suyan](https://github.com/suyan)
