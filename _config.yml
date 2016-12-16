@@ -1,9 +1,9 @@
 # Site settings
-title: Yu Wang's Blog
+title: Yu Wang's GitHub Blog
 email: farheart@gmail.com
-description: Github-based blog of Yu Wang     # this means to ignore newlines until "baseurl:"
+description: Github-based blog of Yu Wang
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://farheart.github.io/ # the base hostname & protocol for your site
+url: https://farheart.github.io/   # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: Yu Wang
 
@@ -12,11 +12,12 @@ filter: 'tag'
 recent_num: 20
 
 # Social account
+linkedin: farheart
+github: farheart
 twitter: 
 weibo: 
-github: farheart
 instagram: 
-linkedin: farheart
+
 
 # avatar and Favicon
 avatar: https://avatars2.githubusercontent.com/u/19579304?v=3&s=460
