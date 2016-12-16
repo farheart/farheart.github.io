@@ -1,10 +1,11 @@
+.idea/
 _site/
 _drafts/
+_posts/.MWebMetaData/
 .DS_Store
-.idea/
 .sass-cache
+.jekyll-metadata
 Gemfile
 Gemfile.lock
-_posts/.MWebMetaData/
-.jekyll-metadata
 start
+Thumbs.db
