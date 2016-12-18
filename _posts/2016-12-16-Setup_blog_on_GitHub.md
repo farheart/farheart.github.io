@@ -39,6 +39,7 @@ published: true
 * [在 Windows7 下从头开始安装部署 Octopress](http://alfred-sun.github.io/blog/2014/11/23/install-and-deploy-octopress-to-github-on-windows7-from-scratch/)
 
 结果是失败： 卡在了`gem install bundler` 一步。即使按照帖子所示：
+
 > 把 http://rubygems.org/ 改为https://ruby.taobao.org/
 
 也没有任何luck。
