@@ -1,25 +1,25 @@
 ---
 layout: post
-title: Configurate Eclipse C++ IDE to compile and link CPLEX program
-category: Tech
+title: Configurate Eclipse C++ IDE to compile CPLEX
+category: CPLEX
 tags: CPLEX  Eclipse  C++
 keywords: CPLEX  Eclipse  C++
 published: true
 ---
 
-# Configurate Eclipse C++ IDE to compile and link CPLEX program
+# Configurate Eclipse C++ IDE to compile CPLEX
 
 This note shows how to configurate `CPLEX` in **Eclipse C++ IDE** so that developers can compile and link `.cpp` which contains `CPLEX` model.
 
 ## Eclipse Installation Info
 
-![](/cplex/img/config_cplex_in_eclipse_cpp_2018-09-10-21-20-37.png)
+![](/assets/posts/2018-09-10-Config_cplex_in_eclipse_cpp/config_cplex_in_eclipse_cpp_2018-09-10-21-20-37.png)
 
 ## Create a new project 
 
-![](/cplex/img/config_cplex_in_eclipse_cpp_2018-09-10-21-21-45.png)
+![](/assets/posts/2018-09-10-Config_cplex_in_eclipse_cpp/config_cplex_in_eclipse_cpp_2018-09-10-21-21-45.png)
 
-![](/cplex/img/config_cplex_in_eclipse_cpp_2018-09-10-21-23-01.png)
+![](/assets/posts/2018-09-10-Config_cplex_in_eclipse_cpp/config_cplex_in_eclipse_cpp_2018-09-10-21-23-01.png)
 
 ## Prepare a test file 
 
@@ -29,7 +29,7 @@ into the project.
 
 However, as we can see below, **Eclipse** complains due to lack of configuration of **include** files (`.h` files) and **libraries**
 
-![](/cplex/img/config_cplex_in_eclipse_cpp_2018-09-10-21-26-27.png)
+![](/assets/posts/2018-09-10-Config_cplex_in_eclipse_cpp/config_cplex_in_eclipse_cpp_2018-09-10-21-26-27.png)
 
 ## Configuration of CPLEX
 
@@ -44,7 +44,7 @@ Right click on the project and select **properties**
 /Users/y0w02p1/Applications/IBM/ILOG/CPLEX_Studio1271/concert/include
 ```
 
-![](/cplex/img/config_cplex_in_eclipse_cpp_2018-09-10-21-35-03.png)
+![](/assets/posts/2018-09-10-Config_cplex_in_eclipse_cpp/config_cplex_in_eclipse_cpp_2018-09-10-21-35-03.png)
 
 * Preprocessor :: Defined symbols (-D)
 
@@ -52,7 +52,7 @@ Right click on the project and select **properties**
 IL_STD
 ```
 
-![](/cplex/img/config_cplex_in_eclipse_cpp_2018-09-10-21-36-22.png)
+![](/assets/posts/2018-09-10-Config_cplex_in_eclipse_cpp/config_cplex_in_eclipse_cpp_2018-09-10-21-36-22.png)
 
 * Dialect :: Other dialect flags
 
@@ -60,11 +60,11 @@ IL_STD
 -stdlib=libc++
 ```
 
-![](/cplex/img/config_cplex_in_eclipse_cpp_2018-09-10-21-37-35.png)
+![](/assets/posts/2018-09-10-Config_cplex_in_eclipse_cpp/config_cplex_in_eclipse_cpp_2018-09-10-21-37-35.png)
 
 * Use the following chart to validate the compile command is correct
 
-![](/cplex/img/config_cplex_in_eclipse_cpp_2018-09-10-21-39-16.png)
+![](/assets/posts/2018-09-10-Config_cplex_in_eclipse_cpp/config_cplex_in_eclipse_cpp_2018-09-10-21-39-16.png)
 
 
 
@@ -85,16 +85,16 @@ ilocplex
 /Users/y0w02p1/Applications/IBM/ILOG/CPLEX_Studio1271/concert/lib/x86-64_osx/static_pic
 ```
 
-![](/cplex/img/config_cplex_in_eclipse_cpp_2018-09-10-21-42-01.png)
+![](/assets/posts/2018-09-10-Config_cplex_in_eclipse_cpp/config_cplex_in_eclipse_cpp_2018-09-10-21-42-01.png)
 
 to validate:
 
-![](/cplex/img/config_cplex_in_eclipse_cpp_2018-09-10-21-43-26.png)
+![](/assets/posts/2018-09-10-Config_cplex_in_eclipse_cpp/config_cplex_in_eclipse_cpp_2018-09-10-21-43-26.png)
 
 
 ## Run Configuration
 
-![](/cplex/img/config_cplex_in_eclipse_cpp_2018-09-10-21-53-58.png)
+![](/assets/posts/2018-09-10-Config_cplex_in_eclipse_cpp/config_cplex_in_eclipse_cpp_2018-09-10-21-53-58.png)
 
 ## Reference 
 > Ref: <https://stackoverflow.com/questions/38312273/setting-up-cplex-in-eclipse-c-on-linux>
@@ -117,4 +117,4 @@ to validate:
 
 Note: on my machine
 
-![](/cplex/img/config_cplex_in_eclipse_cpp_2018-09-10-22-28-34.png)
+![](/assets/posts/2018-09-10-Config_cplex_in_eclipse_cpp/config_cplex_in_eclipse_cpp_2018-09-10-22-28-34.png)

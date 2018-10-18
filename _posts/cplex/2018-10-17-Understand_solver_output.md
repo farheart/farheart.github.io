@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Understand the output log from CPLEX solver
+title: Understand the output from CPLEX solver
 category: Tech
 tags: CPLEX
 keywords: CPLEX
 published: true
 ---
 
-# Understand the output log from CPLEX solver
+# Understand the output from CPLEX solver
 
 > Ref: <https://www.ibm.com/support/knowledgecenter/SSSA5P_12.6.3/ilog.odms.cplex.help/CPLEX/UsrMan/topics/discr_optim/mip/para/52_node_log.html>
 

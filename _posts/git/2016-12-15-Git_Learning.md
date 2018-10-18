@@ -1,9 +1,9 @@
 ---
 layout: post
 title: git的学习总结
-category: Tech
-tags: git
-keywords: git
+category: GIT
+tags: GIT
+keywords: GIT
 published: true
 ---
 
