@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Python call C++ function by SWIG
-category: C++
-tags: SWIG  C++
+category: Cpp
+tags: Python  Cpp
 keywords: Python  SWIG  C++
 published: true
 ---

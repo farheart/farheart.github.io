@@ -2,7 +2,7 @@
 layout: post
 title: Ubuntu -- .bashrc configuration
 category: Linux
-tags: Linux  Ubuntu  .bashrc
+tags: Ubuntu
 keywords: Linux  Ubuntu  .bashrc
 published: true
 ---

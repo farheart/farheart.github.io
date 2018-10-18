@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 在 GitHub 上建立 Blog 的历程
-category: GitHub
-tags: GitHub  Blog
+category: Misc
+tags: Misc
 keywords: GitHub  Blog
 published: true
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Passing data between Python and C++ by SWIG
-category: C++
-tags: SWIG  C++
+category: Cpp
+tags: Python  Cpp
 keywords: Python  SWIG  C++
 published: true
 ---

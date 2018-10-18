@@ -2,7 +2,7 @@
 layout: post
 title: [转帖] java轻量RESTful api服务搭建(jersey+jetty)
 category: Java
-tags: Java  Jersey
+tags: Java
 keywords: Java RESTful  Jersey
 published: true
 ---

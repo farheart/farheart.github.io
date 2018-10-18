@@ -1,6 +1,6 @@
 ---
 layout: post
-title: git的学习总结
+title: git 学习总结
 category: GIT
 tags: GIT
 keywords: GIT

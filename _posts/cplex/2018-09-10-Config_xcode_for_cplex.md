@@ -2,7 +2,7 @@
 layout: post
 title: Configurate XCode to compile CPLEX .cpp program
 category: CPLEX
-tags: CPLEX  C++
+tags: CPLEX  Cpp
 keywords: CPLEX  C++
 published: true
 ---

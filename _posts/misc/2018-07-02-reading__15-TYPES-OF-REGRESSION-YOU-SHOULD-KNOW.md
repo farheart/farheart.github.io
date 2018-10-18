@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Reading Notes - 15 TYPES OF REGRESSION YOU SHOULD KNOW
-category: Stat
-tags: Stat
+category: Misc
+tags: Reading_Note
 keywords: Regression
 published: true
 ---

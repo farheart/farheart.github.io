@@ -2,7 +2,7 @@
 layout: post
 title: Reading Notes -- Docker架设Nginx服务器
 category: Docker
-tags: Docker  Nginx
+tags: Docker  Web
 keywords: Docker  Nginx
 published: true
 ---

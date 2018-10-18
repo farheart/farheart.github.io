@@ -2,7 +2,7 @@
 layout: post
 title: Configurate Eclipse C++ IDE to compile CPLEX
 category: CPLEX
-tags: CPLEX  Eclipse  C++
+tags: CPLEX  Cpp
 keywords: CPLEX  Eclipse  C++
 published: true
 ---

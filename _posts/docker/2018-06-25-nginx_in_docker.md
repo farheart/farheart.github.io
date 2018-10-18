@@ -2,7 +2,7 @@
 layout: post
 title: Nginx in Docker
 category: Docker
-tags: Docker  Nginx
+tags: Docker  Web
 keywords: Docker  Nginx
 published: true
 ---

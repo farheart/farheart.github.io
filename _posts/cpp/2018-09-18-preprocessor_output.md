@@ -1,8 +1,8 @@
 ---
 layout: post
 title: g++ Preprocessor Output
-category: C++
-tags: C++
+category: Cpp
+tags: Cpp
 keywords: Preprocess 
 published: true
 ---

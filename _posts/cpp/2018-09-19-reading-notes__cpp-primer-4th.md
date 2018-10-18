@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Reading Notes -- C++ Prime (4th)
-category: C++
-tags: C++  Reading_Note
+category: Cpp
+tags: Cpp  Reading_Note
 keywords: C++
 published: true
 ---
