@@ -7,9 +7,11 @@ keywords: CPLEX  C++
 published: true
 ---
 
-# Configurate XCode to compile CPLEX .cpp program
+# Configurate XCode to enable compiling CPLEX .cpp program 
 
 ## Configurations
+
+![](/assets/img/cplex/img/config_xcode_for_cplex_2018-09-10-22-12-32.png)
 
 ![](/cplex/img/config_xcode_for_cplex_2018-09-10-22-12-32.png)
 
