@@ -17,7 +17,3 @@ published: true
 WangYu
 
 2018-06-20
-
-## Reference
-
-Forked from [https://github.com/suyan](https://github.com/suyan)
