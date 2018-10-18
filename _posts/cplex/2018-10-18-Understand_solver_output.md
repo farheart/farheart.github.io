@@ -1,3 +1,12 @@
+---
+layout: post
+title: Understand the output log from CPLEX solver
+category: Tech
+tags: C++, CPLEX
+keywords: CPLEX
+published: true
+---
+
 # Understand the output log from CPLEX solver
 
 > Ref: <https://www.ibm.com/support/knowledgecenter/SSSA5P_12.6.3/ilog.odms.cplex.help/CPLEX/UsrMan/topics/discr_optim/mip/para/52_node_log.html>
