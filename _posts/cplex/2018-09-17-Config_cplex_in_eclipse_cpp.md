@@ -1,3 +1,12 @@
+---
+layout: post
+title: Configurate Eclipse C++ IDE to compile and link CPLEX program
+category: Tech
+tags: CPLEX  Eclipse  C++
+keywords: CPLEX  Eclipse  C++
+published: true
+---
+
 # Configurate Eclipse C++ IDE to compile and link CPLEX program
 
 This note shows how to configurate `CPLEX` in **Eclipse C++ IDE** so that developers can compile and link `.cpp` which contains `CPLEX` model.

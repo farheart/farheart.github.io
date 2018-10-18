@@ -2,7 +2,7 @@
 layout: post
 title: Understand the output log from CPLEX solver
 category: Tech
-tags: C++, CPLEX
+tags: CPLEX
 keywords: CPLEX
 published: true
 ---

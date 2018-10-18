@@ -1,3 +1,12 @@
+---
+layout: post
+title: Configurate XCode to compile CPLEX .cpp program
+category: Tech
+tags: CPLEX  C++
+keywords: CPLEX  C++
+published: true
+---
+
 # Configurate XCode to compile CPLEX .cpp program
 
 ## Configurations
