@@ -25,21 +25,23 @@ import matplotlib.pyplot as plt
 plt.rcParams['ytick.labelsize'] = 8
 
 fig, ax = plt.subplots()
-
 for i, t in enumerate(taskDict.keys()):
     xPair = taskDict[t]
     yPair = [i, i]
     ax.plot(xPair, yPair, color=[1, 0, 0, 0.5], linestyle='-', linewidth=3)
 
+ax.set_ylim([-1,5])
+ax.set_xlim([0,24])
 
 import numpy as np
 ax.set_xticks(np.arange(24))  # show each of 24 hours
 ax.set_yticks(np.arange(4))  # show each of 4 tasks
+
 ax.set_yticklabels(taskDict.keys())
 
 # Show grid line
-ax.xaxis.grid(True, which='minor', linestyle='-', linewidth=0.25)
-ax.grid(True, which='major', axis='x' )
+# ax.xaxis.grid(True, which='minor', linestyle='--', linewidth=0.25)
+ax.grid(True, which='major', axis='both', linestyle=':', linewidth=0.5)
 
 # Maximize window
 plt.get_current_fig_manager().window.showMaximized()
