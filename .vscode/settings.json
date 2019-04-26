@@ -1,4 +1,6 @@
 {
+    "http.proxy": "http://proxy.wal-mart.com:9080/",
+    "http.proxyStrictSSL": true,
     "pasteImage.namePrefix": "${currentFileNameWithoutExt}_",
     "pasteImage.path": "${projectRoot}/assets/posts/${currentFileNameWithoutExt}",
     "pasteImage.basePath": "${projectRoot}",
